@@ -1,21 +1,21 @@
 <img style="width:100%;" src="images/dataexplorer.png">
-# Data-Box
-Data Box
+# Data-Intake
+Data Intake
 
-What is InsightLake Data Box?
+What is InsightLake Data Intake?
 -----------
 
-InsightLake Data Box solution enables a company's vendors to upload data in secure and governed manner. A staging workspace is created for vendors where they can upload data and make modifications if necessary. Once ready they can commit the uploaded data so the company can use it.
-Data Box generates appropriate notifications to the company's data intake team to verify the quality of uploaded data. 
+InsightLake Data Intake solution enables a company's vendors to upload data in secure and governed manner. A staging workspace is created for vendors where they can upload data and make modifications if necessary. Once ready they can commit the uploaded data so the company can use it.
+Data Intake generates appropriate notifications to the company's data intake team to verify the quality of uploaded data. 
 
-Data Box allows vendors to upload variety of data sets like CSV, documents, images, videos etc.
-Data Box allows vendors to upload the data using different channels:
+Data Intake allows vendors to upload variety of data sets like CSV, documents, images, videos etc.
+Data Intake allows vendors to upload the data using different channels:
 * Streaming (gRPC) : Mobile Apps for async data transfer
 * API : Web UIs, apps
 * SFTP : Desktop Apps like FileZilla
 * Cloud App : Desktop 
 
-To learn more, check out [http://insightlake.com/databox.html](http://insightlake.com/databox.html)
+To learn more, check out [http://insightlake.com/dataIntake.html](http://insightlake.com/dataIntake.html)
 
 Installation
 ------
@@ -39,7 +39,7 @@ Installation using docker
 
 License
 ------
-InsightLake Data Box is a commercial product but distributed to be used freely. Please contact contact@insightlake.com for details.
+InsightLake Data Intake is a commercial product but distributed to be used freely. Please contact contact@insightlake.com for details.
 
 Getting Help
 ----------

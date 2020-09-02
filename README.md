@@ -1,6 +1,4 @@
-<img style="width:100%;" src="images/dataexplorer.png">
-# Data-Intake
-Data Intake
+<img style="width:100%;" src="images/data-intake.jpg">
 
 What is InsightLake Data Intake?
 -----------
@@ -15,7 +13,47 @@ Data Intake allows vendors to upload the data using different channels:
 * SFTP : Desktop Apps like FileZilla
 * Cloud App : Desktop 
 
-To learn more, check out [http://insightlake.com/dataIntake.html](http://insightlake.com/dataIntake.html)
+## Data Intake
+
+<img style="width:100%;" src="images/intake-portal/intake-poratl-staging.png">
+
+## Activity
+
+<img style="width:100%;" src="images/intake-portal/activity-page.png">
+
+## Notifications
+
+<img style="width:100%;" src="images/intake-portal/notifications-page.png">
+
+## Viewer
+
+<img style="width:100%;" src="images/viewer/viewer-page.png">
+
+## Image Viewer
+
+<img style="width:100%;" src="images/image-viewer/image-annotation.png">
+
+## Video Viewer
+
+<img style="width:100%;" src="images/video-viewer/video-locations.png">
+
+## Lidar Viewer
+
+<img style="width:100%;" src="images/lidar-viewer/lidar-view.png">
+
+## Audit
+
+<img style="width:100%;" src="images/admin/audit.png">
+
+## FTP
+
+<img style="width:100%;" src="images/admin/ftp.png">
+
+## Dashboaard
+
+<img style="width:100%;" src="images/admin/dashboard.png">
+
+To learn more, check out [http://insightlake.com/data-intake.html](http://insightlake.com/data-intake.html)
 
 Installation
 ------

@@ -15,43 +15,50 @@ Data Intake allows vendors to upload the data using different channels:
 
 ## Data Intake
 
-<img style="width:100%;" src="images/intake-portal/intake-poratl-staging.png">
+Data intake contain staging as well as committed images. videos and Lidar, vendor can upload and committed images, videos and Lidar
+* Upload single and multiple Images, video and Lidar
+* Commit single and multiple Images, videos and Lidar
+* View Images, videos and Lidar in large format
 
-## Activity
+<img style="width:100%;" src="images/intake-solution-sc/vendor-intake.png">
 
-<img style="width:100%;" src="images/intake-portal/activity-page.png">
+## Vendor Activity
+
+Intake solution allows to see the vendor activities done throughout the application.
+
+<img style="width:100%;" src="images/intake-solution-sc/vendor-intake-activity.png">
 
 ## Notifications
 
-<img style="width:100%;" src="images/intake-portal/notifications-page.png">
+Intake solution allows to see the notification related to inspector rejection of images, videos and Lidar
+
+<img style="width:100%;" src="images/intake-solution-sc/vendor-notification.png">
 
 ## Viewer
 
-<img style="width:100%;" src="images/viewer/viewer-page.png">
+Viewers can view all types like images, videos and Lidar. It annotates images and videos. Also it can see the properties and comment of images and videos.
 
-## Image Viewer
+It can reject specific images and videos if the images and videos are not good.
 
-<img style="width:100%;" src="images/image-viewer/image-annotation.png">
-
-## Video Viewer
-
-<img style="width:100%;" src="images/video-viewer/video-locations.png">
-
-## Lidar Viewer
-
-<img style="width:100%;" src="images/lidar-viewer/lidar-view.png">
+<img style="width:100%;" src="images/intake-solution-sc/inspector-viewers.png">
 
 ## Audit
 
-<img style="width:100%;" src="images/admin/audit.png">
+Admin can see the user activities done throughout the application.
+
+<img style="width:100%;" src="images/intake-solution-sc/admin-audit.png">
 
 ## FTP
 
-<img style="width:100%;" src="images/admin/ftp.png">
+Admin can manage and add FTP users accounts.
+
+<img style="width:100%;" src="images/intake-solution-sc/admin-ftp.png">
 
 ## Dashboaard
 
-<img style="width:100%;" src="images/admin/dashboard.png">
+Admin can see the daily data analytics and vendors activities with the help of graphical format (charts) . Realtime charts could be used for operational dashboards.
+
+<img style="width:100%;" src="images/intake-solution-sc/admin-dashboard.png">
 
 To learn more, check out [http://insightlake.com/data-intake.html](http://insightlake.com/data-intake.html)
 

@@ -80,7 +80,6 @@ Installation using docker
 
         * username : root
         * password : password
-        * URL :  jdbc:mysql://mysql:3306/
 
 License
 ------

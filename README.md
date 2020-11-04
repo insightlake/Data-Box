@@ -64,6 +64,10 @@ Admin can see the daily data analytics and vendors activities with the help of g
 
 To learn more, check out [http://insightlake.com/data-intake.html](http://insightlake.com/data-intake.html)
 
+# FTP Application
+
+<img style="width:100%;" src="images/sftp.png">
+
 # Desktop Application
 
 Admin can manage and add FTP users accounts.

@@ -1,7 +1,6 @@
 <img style="width:100%;" src="images/data-intake.jpg">
 
-What is InsightLake Data Intake?
------------
+# What is InsightLake Data Intake?
 
 InsightLake Data Intake solution enables a company's vendors to upload data in secure and governed manner. A staging workspace is created for vendors where they can upload data and make modifications if necessary. Once ready they can commit the uploaded data so the company can use it.
 Data Intake generates appropriate notifications to the company's data intake team to verify the quality of uploaded data. 
@@ -61,6 +60,16 @@ Admin can see the daily data analytics and vendors activities with the help of g
 <img style="width:100%;" src="images/admin-dashboard.png">
 
 To learn more, check out [http://insightlake.com/data-intake.html](http://insightlake.com/data-intake.html)
+
+# Desktop Application
+
+Admin can manage and add FTP users accounts.
+
+<img style="width:100%;" src="images/desktopapp.png">
+
+# Mobile Applications
+
+Data Intake solution provides a framework for mobile applications (iOS, Android, Salesforce Lightning)
 
 Installation
 ------

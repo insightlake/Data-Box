@@ -41,6 +41,9 @@ It can reject specific images and videos if the images and videos are not good.
 
 <img style="width:100%;" src="images/inspector-viewers.png">
 
+## Review
+<img style="width:100%;" src="images/review.png">
+
 ## Audit
 
 Admin can see the user activities done throughout the application.
@@ -67,9 +70,13 @@ Admin can manage and add FTP users accounts.
 
 <img style="width:100%;" src="images/desktopapp.png">
 
+<img style="width:100%;" src="images/desktopapp1.png">
+
 # Mobile Applications
 
 Data Intake solution provides a framework for mobile applications (iOS, Android, Salesforce Lightning)
+
+<img style="width:100%;" src="images/mobileapp.png">
 
 Installation
 ------

@@ -20,19 +20,19 @@ Data intake contain staging as well as committed images. videos and Lidar, vendo
 * Commit single and multiple Images, videos and Lidar
 * View Images, videos and Lidar in large format
 
-<img style="width:100%;" src="images/intake-solution-sc/vendor-intake.png">
+<img style="width:100%;" src="images/vendor-intake.png">
 
 ## Vendor Activity
 
 Intake solution allows to see the vendor activities done throughout the application.
 
-<img style="width:100%;" src="images/intake-solution-sc/vendor-intake-activity.png">
+<img style="width:100%;" src="images/vendor-activities.png">
 
 ## Notifications
 
 Intake solution allows to see the notification related to inspector rejection of images, videos and Lidar
 
-<img style="width:100%;" src="images/intake-solution-sc/vendor-notification.png">
+<img style="width:100%;" src="images/vendor-notifications.png">
 
 ## Viewer
 
@@ -40,25 +40,25 @@ Viewers can view all types like images, videos and Lidar. It annotates images an
 
 It can reject specific images and videos if the images and videos are not good.
 
-<img style="width:100%;" src="images/intake-solution-sc/inspector-viewers.png">
+<img style="width:100%;" src="images/inspector-viewers.png">
 
 ## Audit
 
 Admin can see the user activities done throughout the application.
 
-<img style="width:100%;" src="images/intake-solution-sc/admin-audit.png">
+<img style="width:100%;" src="images/admin-audit.png">
 
 ## FTP
 
 Admin can manage and add FTP users accounts.
 
-<img style="width:100%;" src="images/intake-solution-sc/admin-ftp.png">
+<img style="width:100%;" src="images/admin-ftp.png">
 
 ## Dashboaard
 
 Admin can see the daily data analytics and vendors activities with the help of graphical format (charts) . Realtime charts could be used for operational dashboards.
 
-<img style="width:100%;" src="images/intake-solution-sc/admin-dashboard.png">
+<img style="width:100%;" src="images/admin-dashboard.png">
 
 To learn more, check out [http://insightlake.com/data-intake.html](http://insightlake.com/data-intake.html)
 

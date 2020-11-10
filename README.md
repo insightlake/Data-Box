@@ -62,7 +62,6 @@ Admin can see the daily data analytics and vendors activities with the help of g
 
 <img style="width:100%;" src="images/admin-dashboard.png">
 
-To learn more, check out [http://insightlake.com/data-intake.html](http://insightlake.com/data-intake.html)
 
 # FTP Application
 
@@ -81,6 +80,8 @@ Admin can manage and add FTP users accounts.
 Data Intake solution provides a framework for mobile applications (iOS, Android, Salesforce Lightning)
 
 <img style="width:100%;" src="images/mobileapp.png">
+
+To learn more, check out [http://insightlake.com/data-intake.html](http://insightlake.com/data-intake.html)
 
 Installation
 ------

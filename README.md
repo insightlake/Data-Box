@@ -87,7 +87,10 @@ Admin can see the daily data analytics and vendors activities with the help of g
 
 <img style="width:100%;" src="images/admin-dashboard.png">
 
-To learn more, check out [http://insightlake.com/data-intake.html](http://insightlake.com/data-intake.html)
+
+# FTP Application
+
+<img style="width:100%;" src="images/sftp.png">
 
 ## FTP Application
 Data Intake solution starts a secure FTP server, which can be used by vendors/partners to upload the data. Using off the shelf FTP tools like FileZilla etc they can connect to their staging area and upload large file (images, videos etc.). 
@@ -106,6 +109,10 @@ When a partner/vendor is done he/she can commit the staging area changes. Partne
 ## Mobile Applications
 Data Intake solution provides a framework for mobile applications (iOS, Android, Salesforce Lightning). The framework integrates with the backend services to securely upload the data and manage the data intake workflows.
 <img style="width:100%;" src="images/mobileapp.png">
+
+<img style="width:100%;" src="images/mobileapp.png">
+
+To learn more, check out [http://insightlake.com/data-intake.html](http://insightlake.com/data-intake.html)
 
 Installation
 ------

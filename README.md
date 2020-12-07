@@ -1,9 +1,11 @@
-<img style="width:100%;" src="images/data-intake.jpg">
+<img style="width:100%;" src="images/intakemain.jpg">
 
 # What is InsightLake Data Intake?
 
 InsightLake Data Intake solution is a packaged solution which consists of Web UI, Desktop application, Mobile framework & REST, SFTP & Streaming endpoints. This solution can be easily deployed on Cloud (AWS, GCP, Azure) or on-premise.
  It enables a company's vendors/partners to upload data in a secure, reliable and governed manner with a workflow driven mechanism. 
+
+<img style="width:100%;" src="images/intakehigh.jpg">
 
 Data Intake allows partners/vendors to upload a variety of data sets like CSV, documents, images, videos etc. Data Intake allows vendors to upload the data using different channels:
 * Web UI - Intuitive UI

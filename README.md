@@ -12,7 +12,7 @@ Companies work with their partners/vendors and ingest data from them or export d
 
 InsightLake’s external data integration solution consists of two parts:
 * Data Intake - Secure & governed data intake from partners/vendors
-* Managed Data Transfer - Secure & goovered data export to partners/vendors
+* Managed Data Transfer - Secure & governed data export to partners/vendors
 
 # InsightLake Data Intake
 InsightLake Data Intake solution enables companies to ingest data from its partners/vendors. The partners/vendors can ingest following types of data:
